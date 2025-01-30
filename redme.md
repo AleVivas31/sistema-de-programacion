@@ -2,4 +2,4 @@ Aprendiendo de github
 
 - Proyecto en construccion
 
-Sistema de Registro 2
+Sistema de Registro 2.
